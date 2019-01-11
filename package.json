@@ -1,0 +1,19 @@
+{
+  "name": "react-sketch",
+  "version": "1.0.0",
+  "description": "Forkes",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nati323/react-sketch.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nati323/react-sketch/issues"
+  },
+  "homepage": "https://github.com/Nati323/react-sketch#readme"
+}
